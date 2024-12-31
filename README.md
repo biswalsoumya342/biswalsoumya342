@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I Think I Am Funny**
 
-- 🐝 Wanna Be A BummbleBee
+- 🐝 Wanna Be A **BummbleBee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
