@@ -20,7 +20,7 @@
 
 <img width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-<h3 align="left">Connect with me:<img height="30" width="30" src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU3MjExODcsIm5iZiI6MTczNTcyMDg4NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTAxVDA4NDEyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3NjExZTVlMjZlMjk4NTNlYmExZjc2NmUzZDhkMTg0OTQ4MDgyMWExMzExN2Q4ODQ1NTc2N2ZkYTMxNTcyMTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6ETKX5qHaR0lofTFQ38VCCYNKeEIWFMrsAI0a0mGOqE"></h3>
+<h3 align="left">Connect with me:<img height="30" width="30" src="pikachu.gif"></h3>
 <p align="left">
 <a href="https://x.com/soamyabiswal?t=-EE-C1iXCfXfOcVEJ0XeIA&s=09" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="soamyabiswal" height="60" width="60" /></a>
 <a href="https://in.linkedin.com/in/soamyaranjan-biswal-593005219" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="twitter" height="60" width="60" /></a>
