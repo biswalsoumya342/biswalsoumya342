@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/soamyabiswal](https://x.com/soamyabiswal)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="soamyabiswal" height="60" width="60" /></a>
-<a href="https://linkedin.com/in/soamyaranjan biswal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/soamyaranjan-biswal-593005219/" height="60" width="60" /></a>
+<a href="https://x.com/soamyabiswal?t=-EE-C1iXCfXfOcVEJ0XeIA&s=09" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="soamyabiswal" height="60" width="60" /></a>
+<a href="https://in.linkedin.com/in/soamyaranjan-biswal-593005219" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="twitter" height="60" width="60" /></a>
 <a href="https://instagram.com/s.p.a.c.e_s.h.i.p" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="s.pa.c.e_s.h.i.p" height="60" width="60" /></a>
 </p>
 
