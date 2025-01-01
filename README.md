@@ -2,7 +2,7 @@
 <h3 align="center">👋 Hi there! I'm A 🎓 MCA Student | Aspiring Software Developer</h3>
 <img align="center" alt="game" width="1000" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 <img align="right" alt="Coding" width="400" src="coding.gif">
-<p align="left"> <a href="https://twitter.com/soamyabiswal" target="blank"><img src="https://img.shields.io/twitter/follow/soamyabiswal?logo=twitter&style=for-the-badge" alt="soamyabiswal" /></a><img height="30" width="30" src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU3MjM5NTksIm5iZiI6MTczNTcyMzY1OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTAxVDA5MjczOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1OTI5ZjQ4Nzk2M2EyNzFjNWM0YTEyMjhjMWExZDE4ZTk2YzQ3NjIzYmE1NWU2YjY5Y2MxYzhhZWFmNWEwNTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fC1zl5dZd0toO22yGAwOCuZ64R1H7VdcuGE8Wf5S_sk"> </p>
+<p align="left"> <a href="https://twitter.com/soamyabiswal" target="blank"><img src="https://img.shields.io/twitter/follow/soamyabiswal?logo=twitter&style=for-the-badge" alt="soamyabiswal" /></a><img height="30" width="30" src="TWITTER.gif"> </p>
 
 - 🌱 I’m currently learning **Java,AWS,Sql**
 
