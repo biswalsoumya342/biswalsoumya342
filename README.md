@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Advance Java**
 
-- 👨‍💻 All of my projects are available at [https://soumya.freewebhostmost.com/](https://soumya.freewebhostmost.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/biswalsoumya342/JAVA-PROJECTS.git](https://github.com/biswalsoumya342/JAVA-PROJECTS.git)
 
 - 💬 Ask me about **C, C++**
 
