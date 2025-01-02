@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Advance Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/biswalsoumya342/JAVA-PROJECTS.git](https://github.com/biswalsoumya342/JAVA-PROJECTS.git)
+- 👨‍💻 All of my projects are available at https://soumya.freewebhostmost.com/
 
 - 💬 Ask me about **C, C++**
 
