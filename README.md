@@ -22,9 +22,11 @@
 
 <h3 align="left">Connect with me:<img height="30" width="30" src="pikachu.gif"></h3>
 <p align="left">
+  <a href="https://www.facebook.com/shecallmemrsoumyas/" target="blank"><img align="center" src="FACEBOOK.gif" alt="facebook" height="60" width="60"/></a>
 <a href="https://x.com/soamyabiswal?t=-EE-C1iXCfXfOcVEJ0XeIA&s=09" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="soamyabiswal" height="60" width="60" /></a>
 <a href="https://in.linkedin.com/in/soamyaranjan-biswal-593005219" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="twitter" height="60" width="60" /></a>
 <a href="https://instagram.com/s.p.a.c.e_s.h.i.p" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="s.pa.c.e_s.h.i.p" height="60" width="60" /></a>
+  <a href="https://discordapp.com/users/soumya_biswal" target="blank"><img align="center" src="DISCORD.gif" alt="discord" height="60" width="60"/></a>
 </p>
 
 <h3 align="left">Languages and Tools: <img height="30" width="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></h3>
