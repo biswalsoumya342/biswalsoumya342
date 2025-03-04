@@ -8,11 +8,11 @@
 
 - 🤝 I’m looking for help with **Advance Java**
 
-- 👨‍💻 All of my projects are available at https://soumya.freewebhostmost.com/
+- 👨‍💻 All of my projects are available at <br> https://soumya.freewebhostmost.com/
 
 - 💬 Ask me about **C, C++**
 
-- 📫 How to reach me **biswalsoumya342@gmail.com**
+- 📫 How to reach me <br> **biswalsoumya342@gmail.com**
 
 - ⚡ Fun fact **I Think I Am Funny**
 
