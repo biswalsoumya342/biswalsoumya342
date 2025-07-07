@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Java,AWS,Sql**
 
-- 🤝 I’m looking for help with **Advance Java**
+- 🤝 I’m looking for help with **Spring Boot And MicroServices**
 
 - 👨‍💻 All of my projects are available at <br> https://soumya.freewebhostmost.com/
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **Backen Developement**
 
 - 📫 How to reach me <br> **biswalsoumya342@gmail.com**
 
