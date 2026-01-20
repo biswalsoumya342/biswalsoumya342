@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at <br> https://soumya.freewebhostmost.com/
 
-- 💬 Ask me about **Backen Developement**
+- 💬 Ask me about **Backend Developement**
 
 - 📫 How to reach me <br> **biswalsoumya342@gmail.com**
 
